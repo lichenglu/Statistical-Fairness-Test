@@ -38,8 +38,8 @@ kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib
 mistune==0.8.4
-mkl-fft==1.1.0
-mkl-random==1.1.1
+mkl-fft==1.2.0
+mkl-random==1.2.1
 mkl-service==2.3.0
 Mosek===-version-
 multiprocess
